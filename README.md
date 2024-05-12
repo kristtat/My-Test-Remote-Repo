@@ -1,1 +1,5 @@
-# My-Test-Remote-RepoAdding some text to the README file
+# My-Test-Remote-Repo
+
+Adding some text to the README file.
+
+Testing git pull.
